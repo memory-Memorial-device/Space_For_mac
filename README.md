@@ -25,6 +25,7 @@ Apple : Apple Macbook Pro Serise(15inch or 16inch) 2017년 버전 이후
 필요 프로그램
 
 Unity ver: 2021.2.15f 
+
 TouchDesigner : 2020 ver 이상
 
 사용방법
