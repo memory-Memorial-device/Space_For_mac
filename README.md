@@ -20,10 +20,18 @@
 
 지원 모델
 
-Apple  : Apple Macbook Pro Serise(15inch or 16inch) 2017년 버전 이후
+Apple : Apple Macbook Pro Serise(15inch or 16inch) 2017년 버전 이후
 
-Desktop: intel i7, ram 16GB, graphic card GTX 1060 이상
+필요 프로그램
 
+Unity ver: 2021.2.15f TouchDesigner : 2020 ver 이상
+
+사용방법
+
+1. 프로젝트를 다운로드(혹은 클론)
+2. 프로젝트 파일 중 SpouttoNdi 파일을 실행 (터치 디자이너 필요)
+3. 유니티 허브를 이용해 다운로드 받은 프로젝트 폴더 실행 (유니티 2021.2.15f 버전 필요)
+4. 프로젝트 실행
 
 Created by xyzuvwqpq & Rimeo Lee
 
